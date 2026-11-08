@@ -1,0 +1,8 @@
+originals/
+.impeccable/
+PRODUCT.md
+DESIGN.md
+*.cjs
+__pycache__/
+.env
+node_modules/
